@@ -8,5 +8,5 @@ beating human level performances.
 
 ![alt text](https://miro.medium.com/max/1200/0*Kze4g6cLA3maofxq.png)
 
-# Want to learn the NEAT algorithm. Here you go.
+# Want to learn the NEAT algorithm. Click the link below.
 https://neat-python.readthedocs.io/en/latest/neat_overview.html
