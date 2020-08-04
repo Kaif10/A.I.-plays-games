@@ -4,6 +4,15 @@ I created a fun flappy-ball game with Python library Pygame which makes building
 which is a type on Neural Network to play the game by itself. After a lot of training my Neural Network was able to achieve high scores 
 beating human level performances.
 
+### Want to have fun with this!!
+Clone the repo in your system and go in the specific directory and run:
+
+'''
+flappy_ball.py
+'''
+
+
+
 ![alt text](https://github.com/Kaif10/A.I.-plays-games/blob/master/game.jpg)
 
 ![alt text](https://miro.medium.com/max/1200/0*Kze4g6cLA3maofxq.png)
