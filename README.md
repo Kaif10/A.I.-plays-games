@@ -7,9 +7,9 @@ beating human level performances.
 ### Want to have fun with this!!
 Clone the repo in your system and go in the specific directory and run:
 
-'''
+```
 flappy_ball.py
-'''
+```
 
 
 
